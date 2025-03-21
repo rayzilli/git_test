@@ -1,3 +1,4 @@
+- this is a test to see if vs code works with commit and not -m
 testing how add . works
 it works in the future as well in the present.
 this is a test of the new key and a git add push and commit / moms computer
